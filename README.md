@@ -123,7 +123,7 @@
             <br>
             <br>
             <table border="1">
-                <tr>
+            <tr>
                     <td>喜好\美食
                     <td>日式咖哩
                     <td>美式漢堡
