@@ -155,29 +155,6 @@
                     <td>
                     <td>
                     <td>○
-                    <td>
+                    <td> 
                     </table>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <h4>總結：我好像把網頁做得太個人主義啦，沒關係，以後有的是機會😎</h4><br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-        </p>
-    </body>    
-</html>
+                    
