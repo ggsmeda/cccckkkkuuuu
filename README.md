@@ -156,7 +156,7 @@
                     <td>
                     <td>○
                     <td>
-            </table>
+</table>
             <br>
             <br>
             <br>
